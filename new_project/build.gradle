@@ -1,5 +1,5 @@
 dependencies {
     compile project(':old_project')
 
-    compile 'org.springframework:spring-core:4.3.1.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter:1.3.6.RELEASE'
 }
