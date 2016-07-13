@@ -1,0 +1,5 @@
+dependencies {
+    compile project(':old_project')
+
+    compile 'org.springframework:spring-core:4.3.1.RELEASE'
+}
